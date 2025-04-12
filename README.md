@@ -1,8 +1,8 @@
-# LogFileAnalyzer
+# Log Files Assessments 
 
 ## Overview
 
-**LogFileAnalyzer** is a powerful tool designed for analyzing log files that contain clickstream data. It provides users with the ability to extract meaningful insights from web traffic, user behavior, and engagement patterns. This project aims to simplify log analysis, enabling users to make data-driven decisions to enhance their web applications and improve user experience.
+**Log File Analyzer** is a powerful tool designed for analyzing log files that contain clickstream data. It provides users with the ability to extract meaningful insights from web traffic, user behavior, and engagement patterns. This project aims to simplify log analysis, enabling users to make data-driven decisions to enhance their web applications and improve user experience.
 
 ## Features
 
